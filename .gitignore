@@ -1,3 +1,6 @@
+googletest/bin/
+googletest/bin-int/
+
 # Ignore CI build directory
 build/
 xcuserdata
